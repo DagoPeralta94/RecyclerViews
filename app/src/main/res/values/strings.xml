@@ -2,4 +2,5 @@
     <string name="app_name">RecyclerView2</string>
     <string name="title1">Populares en Netflix</string>
     <string name="title2">Tendencias</string>
+    <string name="title3">Verlo nuevamente</string>
 </resources>
